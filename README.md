@@ -1,3 +1,6 @@
+# 💫 Hi 👋, I'm Uday Gupta
+
+Email Me 👉 ✉️ **uday.19657@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krishnakumar.kashyap.353) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishna._.1914) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AK87086540) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Uday.19658@gmail.com) 
@@ -8,6 +11,11 @@
 ![](https://github-readme-stats.shion.dev/api?username=Uday-19657&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Uday-19657&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Uday-19657&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Uday-19657&theme=radical&no-frame=false&no-bg=false&margin-w=4)
